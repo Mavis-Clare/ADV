@@ -369,11 +369,11 @@ border-radius: 50px;
 }
 
 /* Медиа-запрос для экранов 470px и ниже */
-@media (max-width: 470px) {
+/* @media (max-width: 470px) {
     
 
     .map1 iframe {
         width: 100%;
         height: 250px;
     }
-}
+} */
